@@ -23,5 +23,5 @@ module "sandbox2" {
     group = "non-prod"
   }
 
-  account_customizations_name = "sandbox2"
+  account_customizations_name = "sandbox"
 }
